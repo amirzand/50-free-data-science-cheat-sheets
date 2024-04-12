@@ -1,50 +1,50 @@
 # 50-free-data-science-cheat-sheets
- پایتون : [لینک](https://www.pythoncheatsheet.org/)
-◻️ کتابخونه Pandas : لینک
-◼️ کتابخونه NumPy : لینک
-◻️ کتابخونه Matplotlib : لینک
-◼️ کتابخونه seaborn : لینک
-◻️ کتابخونه scikit-learn : لینک
-◼️ کتابخونه TensorFlow : لینک
-◻️ کتابخونه Keras : لینک
-◼️ فریم‌ورک PyTorch : لینک
-◻️ زبان SQL : لینک
-◼️ پروژه GeoPandas : لینک
-◻️ سیستم کنترل ورژن Git : لینک
-◼️ پلتفرم ابری AWS : لینک
-◻️ پلتفرم ابری Azure : لینک
-◼️ رایانش ابری Google Cloud Platform : لینک
-◻️ پلتفرم Docker : لینک
-◼️ پلتفرم Kubernetes : لینک
-◻️ آموزش The Linux Command Line : لینک
-◼️ نوت‌بوک Jupyter  : لینک
-◻️ آماده سازی داده : لینک
-◼️ تجسم داده : لینک
-◻️ استنباط آماری : لینک
-◼️ احتمال : لینک
-◻️ جبر خطی : لینک
-◼️ حساب دیفرانسیل : لینک
-◻️ سری‌های زمانی : لینک
-◼️ پردازش زبان طبیعی : لینک
-◻️ شبکه عصبی : لینک
-◼️ یادگیری عمیق : لینک
-◻️ یادگیری ماشین : لینک
-◼️ فریم‌ورک آپاچی اسپارک : لینک
-◻️ فریم‌ ورک آپاچی هادوپ : لینک
-◼️ ابزار Big O Notation : لینک
-◻️ آموزش Regular Expression : لینک
-◼️ آموزش Unix / Linux Permissions : لینک
-◻️ آموزش Python String Formatting : لینک
-◼️ فریم‌ورک Flask : لینک
-◻️ فریم‌ورک Django : لینک
-◼️ کتابخونه plotly : لینک
-◻️ دیتابیس PostgreSQL : لینک
-◼️ دیتابیس MySQL : لینک
-◻️ دیتابیس MongoDB : لینک
-◼️ کتابخونه TensorFlow Probability : لینک
-◻️ چت‌بات GPT-3 : لینک
-◼️ آموزش GPT-3 API Reference : لینک
-◻️ کتابخونه SciPy : لینک
-◼️ چت‌بات ChatGPT : لینک
-◻️ آموزش Colors in Data Viz : لینک
-◼️ آموزش Geospatial DS in Python : لین
+1.python : [لینک](https://www.pythoncheatsheet.org/)
+2.library Pandas : [لینک]()
+3.library NumPy : [لینک]()
+4.library Matplotlib : [لینک]()
+5.library seaborn : [لینک]()
+6.library scikit-learn : [لینک]()
+7.library TensorFlow : [لینک]()
+8.library Keras : [لینک]()
+9.library PyTorch : [لینک]()
+10.SQL language : [لینک]()
+11.GeoPandas project: [لینک]()
+12.Git repository: [لینک]()
+13.AWS cloud computing : [لینک]()
+14.Azure cloud computing: [لینک]()
+15.cloud computing Google Cloud Platform : [لینک]()
+16.Docker platform : [لینک]()
+17.Kubernetes platform : [لینک]()
+18.The Linux Command Line Learning: [لینک]()
+19.Jupyter notebook : [لینک]()
+20.data preparation: [لینک]()
+21.data visualisation : [لینک]()
+22.Statistical inference : [لینک]()
+23.Statistical : [لینک]()
+24.linear algebra : [لینک]()
+25.calculus : [لینک]()
+26.time series : [لینک]()
+27.NLP : [لینک]()
+28.neutral network: [لینک]()
+29.deep learning : [لینک]()
+30ML : [لینک]()
+31.apachi spark framework : [لینک]()
+32.apachi hadop framework : [لینک]()
+33.Big O Notation : [لینک]()
+34.Regular Expression Learn : [لینک]()
+35.Unix / Linux Permissions Learn: [لینک]()
+36.Python String Formatting Learn: [لینک]()
+37.Flask framework : [لینک]()
+38.Django framework: [لینک]()
+39.plotly lib: [لینک]()
+40.PostgreSQL DB: [لینک]()
+41.MySQL DB: [لینک]()
+42.MongoDB DB: [لینک]()
+43.TensorFlow Probability lib: [لینک]()
+44.GPT-3 : [لینک]()
+45.GPT-3 API Reference learn : [لینک]()
+46.SciPy lib : [لینک]()
+47.ChatGPT : [لینک]()
+48.Colors in Data Viz lib : [لینک]()
+49.Geospatial DS in Python learn : [لینک]()
